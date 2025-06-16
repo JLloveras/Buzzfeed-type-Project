@@ -1,0 +1,22 @@
+h1,h2{
+    text-align:center
+}
+button.begin{
+    height:75px;
+    width:225px;
+}
+button{
+    height:50px;
+    display:block;
+    margin:15px;
+}
+div.button{
+    width:300px;
+    margin:auto;
+}
+div.container{
+    margin:10px;
+}
+label{
+    padding:0px 0px 0px 15px;
+}
