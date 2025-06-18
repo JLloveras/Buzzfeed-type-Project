@@ -1,5 +1,12 @@
-h1,h2{
+html{
+    scroll-behavior: smooth;
+}
+h1,h2, h4{
     text-align:center
+}
+a:link, a:visited{
+    text-decoration: none;
+    color:black;
 }
 button.begin{
     height:75px;
@@ -9,6 +16,25 @@ button{
     height:50px;
     display:block;
     margin:15px;
+    background-color:#CCC;
+}
+button:hover{
+    background-color: #AAA;
+}
+.active{
+    background-color: #888;
+}
+.active:hover{
+    background-color: #888;
+}
+.false{
+    display:none;
+}
+.javascript-c, .python-c, .java-c, .cpp-c, .binary-c{
+    width:75%;
+    text-align:center;
+    margin:auto;
+    display:none;
 }
 div.button{
     width:300px;
