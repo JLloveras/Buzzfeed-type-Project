@@ -137,18 +137,23 @@ buttonsQ6[0].addEventListener("click", function() {
   if(javascript>=python&&javascript>=java&&javascript>=cpp&&javascript>=binary){
     document.getElementsByClassName("javascript-c")[0].style.display="block";
     document.getElementsByClassName("javascript-c")[1].style.display="block";
+    document.getElementsByClassName("javascript-c")[2].style.display="block";
   }else if(python>=javascript&&python>=java&&python>=cpp&&python>=binary){
     document.getElementsByClassName("python-c")[0].style.display="block";
     document.getElementsByClassName("python-c")[1].style.display="block";
+    document.getElementsByClassName("python-c")[2].style.display="block";
   }else if(java>=javascript&&java>=python&&java>=cpp&&java>=binary){
     document.getElementsByClassName("java-c")[0].style.display="block";
     document.getElementsByClassName("java-c")[1].style.display="block";
+    document.getElementsByClassName("java-c")[2].style.display="block";
   }else if(cpp>=javascript&&cpp>=python&&cpp>=java&&cpp>=binary){
     document.getElementsByClassName("cpp-c")[0].style.display="block";
     document.getElementsByClassName("cpp-c")[1].style.display="block";
+    document.getElementsByClassName("cpp-c")[2].style.display="block";
   }else if(binary>=javascript&&binary>=python&&binary>=java&&binary>=cpp){
     document.getElementsByClassName("binary-c")[0].style.display="block";
     document.getElementsByClassName("binary-c")[1].style.display="block";
+    document.getElementsByClassName("binary-c")[2].style.display="block";
   };
 });
 buttonsQ6[1].addEventListener("click", function() {
@@ -157,18 +162,23 @@ buttonsQ6[1].addEventListener("click", function() {
   if(javascript>=python&&javascript>=java&&javascript>=cpp&&javascript>=binary){
     document.getElementsByClassName("javascript-c")[0].style.display="block";
     document.getElementsByClassName("javascript-c")[1].style.display="block";
+    document.getElementsByClassName("javascript-c")[2].style.display="block";
   }else if(python>=javascript&&python>=java&&python>=cpp&&python>=binary){
     document.getElementsByClassName("python-c")[0].style.display="block";
     document.getElementsByClassName("python-c")[1].style.display="block";
+    document.getElementsByClassName("python-c")[2].style.display="block";
   }else if(java>=javascript&&java>=python&&java>=cpp&&java>=binary){
     document.getElementsByClassName("java-c")[0].style.display="block";
     document.getElementsByClassName("java-c")[1].style.display="block";
+    document.getElementsByClassName("java-c")[2].style.display="block";
   }else if(cpp>=javascript&&cpp>=python&&cpp>=java&&cpp>=binary){
     document.getElementsByClassName("cpp-c")[0].style.display="block";
     document.getElementsByClassName("cpp-c")[1].style.display="block";
+    document.getElementsByClassName("cpp-c")[2].style.display="block";
   }else if(binary>=javascript&&binary>=python&&binary>=java&&binary>=cpp){
     document.getElementsByClassName("binary-c")[0].style.display="block";
     document.getElementsByClassName("binary-c")[1].style.display="block";
+    document.getElementsByClassName("binary-c")[2].style.display="block";
   };
 });
 buttonsQ6[2].addEventListener("click", function() {
@@ -177,18 +187,23 @@ buttonsQ6[2].addEventListener("click", function() {
   if(javascript>=python&&javascript>=java&&javascript>=cpp&&javascript>=binary){
     document.getElementsByClassName("javascript-c")[0].style.display="block";
     document.getElementsByClassName("javascript-c")[1].style.display="block";
+    document.getElementsByClassName("javascript-c")[2].style.display="block";
   }else if(python>=javascript&&python>=java&&python>=cpp&&python>=binary){
     document.getElementsByClassName("python-c")[0].style.display="block";
     document.getElementsByClassName("python-c")[1].style.display="block";
+    document.getElementsByClassName("python-c")[2].style.display="block";
   }else if(java>=javascript&&java>=python&&java>=cpp&&java>=binary){
     document.getElementsByClassName("java-c")[0].style.display="block";
     document.getElementsByClassName("java-c")[1].style.display="block";
+    document.getElementsByClassName("java-c")[2].style.display="block";
   }else if(cpp>=javascript&&cpp>=python&&cpp>=java&&cpp>=binary){
     document.getElementsByClassName("cpp-c")[0].style.display="block";
     document.getElementsByClassName("cpp-c")[1].style.display="block";
+    document.getElementsByClassName("cpp-c")[2].style.display="block";
   }else if(binary>=javascript&&binary>=python&&binary>=java&&binary>=cpp){
     document.getElementsByClassName("binary-c")[0].style.display="block";
     document.getElementsByClassName("binary-c")[1].style.display="block";
+    document.getElementsByClassName("binary-c")[2].style.display="block";
   };
 });
 buttonsQ6[3].addEventListener("click", function() {
@@ -196,18 +211,23 @@ buttonsQ6[3].addEventListener("click", function() {
   if(javascript>=python&&javascript>=java&&javascript>=cpp&&javascript>=binary){
     document.getElementsByClassName("javascript-c")[0].style.display="block";
     document.getElementsByClassName("javascript-c")[1].style.display="block";
+    document.getElementsByClassName("javascript-c")[2].style.display="block";
   }else if(python>=javascript&&python>=java&&python>=cpp&&python>=binary){
     document.getElementsByClassName("python-c")[0].style.display="block";
     document.getElementsByClassName("python-c")[1].style.display="block";
+    document.getElementsByClassName("python-c")[2].style.display="block";
   }else if(java>=javascript&&java>=python&&java>=cpp&&java>=binary){
     document.getElementsByClassName("java-c")[0].style.display="block";
     document.getElementsByClassName("java-c")[1].style.display="block";
+    document.getElementsByClassName("java-c")[2].style.display="block";
   }else if(cpp>=javascript&&cpp>=python&&cpp>=java&&cpp>=binary){
     document.getElementsByClassName("cpp-c")[0].style.display="block";
     document.getElementsByClassName("cpp-c")[1].style.display="block";
+    document.getElementsByClassName("cpp-c")[2].style.display="block";
   }else if(binary>=javascript&&binary>=python&&binary>=java&&binary>=cpp){
     document.getElementsByClassName("binary-c")[0].style.display="block";
     document.getElementsByClassName("binary-c")[1].style.display="block";
+    document.getElementsByClassName("binary-c")[2].style.display="block";
   };
 });
 buttonsQ6[4].addEventListener("click", function() {
@@ -217,18 +237,23 @@ buttonsQ6[4].addEventListener("click", function() {
   if(javascript>=python&&javascript>=java&&javascript>=cpp&&javascript>=binary){
     document.getElementsByClassName("javascript-c")[0].style.display="block";
     document.getElementsByClassName("javascript-c")[1].style.display="block";
+    document.getElementsByClassName("javascript-c")[2].style.display="block";
   }else if(python>=javascript&&python>=java&&python>=cpp&&python>=binary){
     document.getElementsByClassName("python-c")[0].style.display="block";
     document.getElementsByClassName("python-c")[1].style.display="block";
+    document.getElementsByClassName("python-c")[2].style.display="block";
   }else if(java>=javascript&&java>=python&&java>=cpp&&java>=binary){
     document.getElementsByClassName("java-c")[0].style.display="block";
     document.getElementsByClassName("java-c")[1].style.display="block";
+    document.getElementsByClassName("java-c")[2].style.display="block";
   }else if(cpp>=javascript&&cpp>=python&&cpp>=java&&cpp>=binary){
     document.getElementsByClassName("cpp-c")[0].style.display="block";
     document.getElementsByClassName("cpp-c")[1].style.display="block";
+    document.getElementsByClassName("cpp-c")[2].style.display="block";
   }else if(binary>=javascript&&binary>=python&&binary>=java&&binary>=cpp){
     document.getElementsByClassName("binary-c")[0].style.display="block";
     document.getElementsByClassName("binary-c")[1].style.display="block";
+    document.getElementsByClassName("binary-c")[2].style.display="block";
   };
 });
 buttonsQ6[5].addEventListener("click", function() {
@@ -238,17 +263,22 @@ buttonsQ6[5].addEventListener("click", function() {
   if(javascript>=python&&javascript>=java&&javascript>=cpp&&javascript>=binary){
     document.getElementsByClassName("javascript-c")[0].style.display="block";
     document.getElementsByClassName("javascript-c")[1].style.display="block";
+    document.getElementsByClassName("javascript-c")[2].style.display="block";
   }else if(python>=javascript&&python>=java&&python>=cpp&&python>=binary){
     document.getElementsByClassName("python-c")[0].style.display="block";
     document.getElementsByClassName("python-c")[1].style.display="block";
+    document.getElementsByClassName("python-c")[2].style.display="block";
   }else if(java>=javascript&&java>=python&&java>=cpp&&java>=binary){
     document.getElementsByClassName("java-c")[0].style.display="block";
     document.getElementsByClassName("java-c")[1].style.display="block";
+    document.getElementsByClassName("java-c")[2].style.display="block";
   }else if(cpp>=javascript&&cpp>=python&&cpp>=java&&cpp>=binary){
     document.getElementsByClassName("cpp-c")[0].style.display="block";
     document.getElementsByClassName("cpp-c")[1].style.display="block";
+    document.getElementsByClassName("cpp-c")[2].style.display="block";
   }else if(binary>=javascript&&binary>=python&&binary>=java&&binary>=cpp){
     document.getElementsByClassName("binary-c")[0].style.display="block";
     document.getElementsByClassName("binary-c")[1].style.display="block";
+    document.getElementsByClassName("binary-c")[2].style.display="block";
   };
 });
