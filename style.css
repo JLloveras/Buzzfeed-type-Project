@@ -38,6 +38,7 @@ button:hover{
 }
 p{
     width:75%;
+    line-height: 32px;
 }
 .javascript-c, .python-c, .java-c, .cpp-c, .binary-c{
     text-align:center;
